@@ -1,0 +1,9 @@
+module.exports.ROUTE_CONSTANTS={
+    DEFAULT:"/",
+    GET_LOGIN:"/LOGIN",
+    GET_REGISTER:"/REGISTER",
+    GET_PRODUCTS:"/PRODUCTS",
+    GET_FILE:"/FILE",
+    POST_REGISTER:"/REGISTER"
+
+}

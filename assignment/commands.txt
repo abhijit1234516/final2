@@ -1,0 +1,17 @@
+npm init
+
+skip//npm install -g express-generator
+
+skip//express
+
+express --view=ejs
+
+npm i
+
+npm start
+
+
+
+
+ 
+
